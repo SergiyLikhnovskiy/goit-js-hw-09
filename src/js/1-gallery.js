@@ -79,7 +79,7 @@ const galleryMarkups = images
           <img
             class="gallery-image"
             src="${preview}"
-            alt="${description} "
+            alt="${description}"
           />
         </a>
       </li>`
