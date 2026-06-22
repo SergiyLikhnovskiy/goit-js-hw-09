@@ -3,7 +3,7 @@ import"./assets/modulepreload-polyfill-B5Qt9EMX.js";/* empty css                
           <img
             class="gallery-image"
             src="${o}"
-            alt="${a} "
+            alt="${a}"
           />
         </a>
       </li>`).join(" ");e.galleryList.insertAdjacentHTML("afterbegin",n);new i(".gallery a",{captions:!0,captionsData:"alt",captionPosition:"bottom",captionDelay:250});
